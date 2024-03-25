@@ -1,0 +1,15 @@
+htbuilder
+boto3
+botocore==1.34.53
+sqlalchemy
+snowflake-sqlalchemy
+langchain
+sqlalchemy-aurora-data-api
+PyAthena[SQLAlchemy]
+anthropic
+sqlalchemy-redshift
+langchain
+streamlit
+streamlit-chat
+langchain_experimental
+awswrangler

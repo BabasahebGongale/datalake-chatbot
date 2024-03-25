@@ -1,0 +1,12 @@
+boto3
+sqlalchemy==1.4.47
+snowflake-sqlalchemy
+langchain==0.0.205
+sqlalchemy-aurora-data-api
+PyAthena[SQLAlchemy]==2.25.2
+anthropic
+sqlalchemy-redshift==0.8.14
+langchain
+streamlit==1.32.0
+streamlit-chat
+langchain_experimental
